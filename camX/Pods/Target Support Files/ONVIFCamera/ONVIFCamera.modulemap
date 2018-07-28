@@ -1,0 +1,6 @@
+framework module ONVIFCamera {
+  umbrella header "ONVIFCamera-umbrella.h"
+
+  export *
+  module * { export * }
+}

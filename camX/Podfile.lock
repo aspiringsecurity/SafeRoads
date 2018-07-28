@@ -1,0 +1,53 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Alamofire-Synchronous (4.0.0):
+    - Alamofire (~> 4.0)
+  - BigInt (3.0.1):
+    - SipHash (~> 1.2)
+  - CryptoSwift (0.9.0)
+  - libsodium (1.0.12)
+  - ONVIFCamera (1.1.7)
+  - Result (3.0.0)
+  - secp256k1_ios (0.1.3)
+  - SipHash (1.2.0)
+  - web3swift (0.7.0):
+    - Alamofire (~> 4.7)
+    - Alamofire-Synchronous (~> 4.0)
+    - BigInt (~> 3.0.1)
+    - CryptoSwift (~> 0.9.0)
+    - libsodium (~> 1.0.12)
+    - Result (~> 3.0.0)
+    - secp256k1_ios (~> 0.1.3)
+
+DEPENDENCIES:
+  - ONVIFCamera
+  - web3swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Alamofire-Synchronous
+    - BigInt
+    - CryptoSwift
+    - libsodium
+    - ONVIFCamera
+    - Result
+    - secp256k1_ios
+    - SipHash
+    - web3swift
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Alamofire-Synchronous: eedf1e6e961c3795a63c74990b3f7d9fbfac7e50
+  BigInt: 8e8a52161c745cd3ab78e3dc346a9fbee51e6cf6
+  CryptoSwift: bca8c5b653dcc2d9734409242a070ff53bafac86
+  libsodium: 9a8faa5ef2fa0d2d57bd7f7d79bf8fb7c1a9f0ea
+  ONVIFCamera: 80bcd1e8af82c1429bbd3aca786507adbdb647ec
+  Result: 1b3e431f37cbcd3ad89c6aa9ab0ae55515fae3b6
+  secp256k1_ios: ac9ef04e761f43c58012b28548afa91493761f17
+  SipHash: c6e9e43e9c531b5bc6602545130c26194a6d31ce
+  web3swift: 8f1248592ee8446a03b0ed6e0df15147d60d4202
+
+PODFILE CHECKSUM: 441799700e066d880e1262ce3c23fc797fc7777f
+
+COCOAPODS: 1.5.0

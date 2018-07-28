@@ -1,0 +1,9 @@
+{
+  "commitish" : "v0.4.9",
+  "iOS" : [
+    {
+      "name" : "SwiftGMP",
+      "hash" : "8192a0072861d2e74ca273d42636b57fa0342297e85262009f1d941cddbf0cbf"
+    }
+  ]
+}

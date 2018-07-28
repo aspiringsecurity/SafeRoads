@@ -1,0 +1,10 @@
+How to build:
+
+1. Install Carthage https://github.com/Carthage/Carthage#adding-frameworks-to-an-application
+
+2. Delete Carthage directory and Cartfile.resolved file in root directory
+
+3. Fetch and build the dependencies, type:
+   carthage update --platform iOS
+
+4. Build cam X in xcode
