@@ -1,0 +1,4 @@
+MJPGApp.MainActivity, MJPGApp;md5854cb6c013f4b241d3470f324851eceb.MainActivity
+MJPGApp.MainActivity, MJPGApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5854cb6c013f4b241d3470f324851eceb.MainActivity
+MJPGApp.MainActivity;md5854cb6c013f4b241d3470f324851eceb.MainActivity
+mjpgapp.MainActivity;md5854cb6c013f4b241d3470f324851eceb.MainActivity

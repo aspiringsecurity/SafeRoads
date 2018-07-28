@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#009688"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TimePicker
+        android:id="@+id/alarmTimePicker"
+        android:layout_width="350dp"
+        android:layout_height="372dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set alarm"
+        android:id="@+id/start_alarm"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginBottom="8dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Unset alarm"
+        android:id="@+id/stop_alarm"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="0.0dp"
+        android:layout_marginBottom="8dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Set the alarm clock!"
+        android:id="@+id/alarmText"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp" />
+    <EditText
+        android:id="@+id/timeTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:ems="10"
+        android:hint="Number of seconds"
+        android:inputType="numberDecimal" />
+    <Button
+        android:id="@+id/startBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="60dp"
+        android:layout_marginTop="120dp"
+        android:text="Start" />
+</LinearLayout>

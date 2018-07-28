@@ -1,0 +1,35 @@
+PARKING LOT SECURITY
+
+
+THE ISSUE
+
+Parking lot security systems have long been used in shopping malls and corporate offices in emerging countries. 
+We got motivated to recycle and use old phones and tablets, used devices like computers on providing cost effective security at every community shopping center and kiryana stores.
+We wish to provide cost effective security at stores using Parking Lot Security application and onvif sdk.
+
+OUR MAGIC SOLUTION
+
+Our app provides the requisites features on how we could secure parking spaces at community shopping centers and kiryana stores using used and broken phones and tablets, alarm clocks, internet connection, sync service, integration with IP cameras using ONVIF SDK and fix safety alarms. 
+The cost of deployment and added technology is zero and uses open source software, which could help the stores.
+
+HOW IT WORKS?
+
+1)
+Install the Parking Lot Security app
+Install the Parking Lot Security apk from bitbucket repository.
+
+2)
+Parking Lot Security and live stream using IP Cameras
+Parking Lot Security and live stream using IP Cameras and ONVIF camera integration
+
+3)
+Set Alarms from the alarm interface.
+Alarm selected for the day and time selected.
+
+4)
+Notification of the alarm set
+Notification of the alarm set for a particular time.
+
+5)
+Alarm canceled in case of changes
+Alarm cancelled in case of changes by the parking lot security personnel.
